@@ -1,0 +1,37 @@
+
+h1 {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(84, 96, 201);
+}
+
+#searchButton {
+    margin: 20px;
+}
+
+#searchForm {
+    align-items: center;
+    display: flex;
+    
+}
+
+#gifContainer {
+display: flexbox;
+position: relative;
+margin-top: 20px;
+}
+
+#newGIFImage {
+    margin: 20px;
+    max-width: 100px;
+    max-height: 100px;
+}
